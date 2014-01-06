@@ -1,4 +1,1 @@
-d3tuts
-======
-
-dataviz toys
+Just playing around with data viz.
